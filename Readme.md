@@ -12,5 +12,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-
+[![wakatime](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg)](https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
