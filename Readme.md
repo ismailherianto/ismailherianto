@@ -13,6 +13,4 @@
 
 
 
-<figure><embed src="https://wakatime.com/share/@Ismail_Herianto/2f754779-5e53-42be-a4ff-8091e4bdcb6c.svg"></embed></figure>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
