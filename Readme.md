@@ -12,4 +12,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+
+<a href="https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571"><img src="https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg" alt="Total time coded since Sep 3 2021" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
