@@ -13,5 +13,6 @@
 
 
 
-<a href="https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571"><img src="https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg" alt="Total time coded since Sep 3 2021" /></a>
+<figure><embed src="https://wakatime.com/share/@Ismail_Herianto/2f754779-5e53-42be-a4ff-8091e4bdcb6c.svg"></embed></figure>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
