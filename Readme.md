@@ -32,21 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ---
 
-## 🚀 Projects
-Here are some of my top projects:
-- 🌟 [Project 1](#) - Short description
-- 🌟 [Project 2](#) - Short description
-- 🌟 [Project 3](#) - Short description
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ismailherianto&theme=onedark)
 
 ---
 
