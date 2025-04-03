@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ## 📬 Connect with Me:
 [![Wakatime](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg)](https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571)
+<figure><embed src="https://wakatime.com/share/@Ismail_Herianto/303eaf9b-74dc-411c-bf0d-9e0772175884.svg"></embed></figure>
 
 ---
 
