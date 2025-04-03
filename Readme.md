@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ---
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 ## 📬 Connect with Me:
 [![Wakatime](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg)](https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571)
 
