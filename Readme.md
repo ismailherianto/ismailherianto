@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ## 📬 Connect with Me:
 [![Wakatime](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571.svg)](https://wakatime.com/@e570b3bf-c5d3-49e3-afaa-833f974fa571)
-[![wakatime](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571/project/ef27fbff-c2da-4830-bc27-bb711c40d1fc.svg)](https://wakatime.com/badge/user/e570b3bf-c5d3-49e3-afaa-833f974fa571/project/ef27fbff-c2da-4830-bc27-bb711c40d1fc)
+[![wakatime](https://wakatime.com/badge/bitbucket/solusi-penjaminan-aman/maximus.svg)](https://wakatime.com/badge/bitbucket/solusi-penjaminan-aman/maximus)
 
 ---
 
